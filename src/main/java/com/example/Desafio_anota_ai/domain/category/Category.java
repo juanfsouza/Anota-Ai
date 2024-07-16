@@ -11,10 +11,15 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Setter
 @NoArgsConstructor
 public class Category {
-
     @Id
     private String id;
     private String title;
     private String description;
     private String ownerId;
+
+    public Category(CategoryDTO categoryDTO) {
+        this.title = categoryDTO.title();
+        this.description = categoryDTO.description();
+        this.ownerid = categoryDTO.ownerId();
+    }
 }
