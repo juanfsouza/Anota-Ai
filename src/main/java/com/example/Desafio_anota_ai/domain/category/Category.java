@@ -20,6 +20,6 @@ public class Category {
     public Category(CategoryDTO categoryDTO) {
         this.title = categoryDTO.title();
         this.description = categoryDTO.description();
-        this.ownerid = categoryDTO.ownerId();
+        this.ownerId = categoryDTO.ownerId();
     }
 }

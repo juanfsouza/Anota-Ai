@@ -16,5 +16,7 @@ public class CategoryService {
 
     public Category insert(CategoryDTO categoryData) {
         Category newCategory = new Category(categoryData);
+        this.repository.save(newCategory);
+        return newCategory;
     }
 }
