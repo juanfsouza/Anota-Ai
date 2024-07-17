@@ -25,11 +25,13 @@ MongoDB
 
 </br>
 
-## Diagrama representando a estrutura final do projeto
+<h3>Diagrama representando a estrutura final do projeto</h3>
 
 ![Screenshot_1](https://github.com/user-attachments/assets/c0a621c8-cfeb-47f6-8bd7-e2ef6a266b0b)
 
-## Primeiro dia do Projeto deu para fazer
+</br>
+
+<h3>Primeiro dia do Projeto deu para fazer</h3>
 
 ![Screenshot_2](https://github.com/user-attachments/assets/9b1ea9b5-c28d-4863-8b94-e804c5fe90b2)
 
