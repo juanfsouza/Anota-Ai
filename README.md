@@ -8,6 +8,8 @@
 Um desafio para testa abilidade backend, esse desafio e de uma startup gaúcha que oferece soluções para restaurantes melhorarem o seu desempenho no delivery, que foi comprada pelo gigante iFood!
 explorando vários conceitos do mundo backend como API Rest, design patterns, serviço de mensageria, bucket, banco de dados.
 
+</br>
+
 </div>
 
 ```
