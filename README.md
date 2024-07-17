@@ -19,10 +19,9 @@ AWS
 MongoDB
 ```
 
-Diagrama representando a estrutura final do projeto:
-
-
 <div align="center">
+
+Diagrama representando a estrutura final do projeto:
 
 </br>
 
@@ -33,3 +32,5 @@ Diagrama representando a estrutura final do projeto:
 ![Screenshot_2](https://github.com/user-attachments/assets/9b1ea9b5-c28d-4863-8b94-e804c5fe90b2)
 
 </div>
+
+Link do Desafio: https://github.com/githubanotaai/new-test-backend-nodejs?tab=readme-ov-file
