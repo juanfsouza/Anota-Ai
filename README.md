@@ -17,6 +17,8 @@ AWS
 MongoDB
 ```
 
+</div>
+
 <div align="center">
 
 ![Screenshot_1](https://github.com/user-attachments/assets/c0a621c8-cfeb-47f6-8bd7-e2ef6a266b0b)
