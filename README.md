@@ -6,12 +6,16 @@
 <h3>Um desafio para testa abilidade backend, esse desafio e de uma startup gaúcha que oferece soluções para restaurantes melhorarem o seu desempenho no delivery, que foi comprada pelo gigante iFood!
 explorando vários conceitos do mundo backend como API Rest, design patterns, serviço de mensageria, bucket, banco de dados.</h3>
 
+</div>
+
 ```
 Java
 Spring Boot
 AWS
 MongoDB
 ```
+
+<div align="center">
 
 ![Screenshot_1](https://github.com/user-attachments/assets/c0a621c8-cfeb-47f6-8bd7-e2ef6a266b0b)
 
