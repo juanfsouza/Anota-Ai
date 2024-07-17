@@ -37,7 +37,7 @@ public class CategoryController {
         return ResponseEntity.ok().body(updatedCategory);
     }
 
-    @PutMapping("/{id}")
+    @DeleteMapping("/{id}")
     public ResponseEntity<Category> delete(@PathParam("id") String id, @RequestBody CategoryDTO categoryData) {
         this.service.delete(id);
         return ResponseEntity.noContent().build();
