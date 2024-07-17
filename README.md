@@ -19,6 +19,8 @@ AWS
 MongoDB
 ```
 
+Diagrama representando a estrutura final do projeto:
+
 
 <div align="center">
 
