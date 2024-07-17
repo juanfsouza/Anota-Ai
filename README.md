@@ -1,10 +1,10 @@
 <div align="center">
-# Anota-Ai!
+#Anota-Ai!
   
 ![Screenshot_3](https://github.com/user-attachments/assets/b4b4037d-b16d-437a-aad2-71c0352a9fed)
 
-<h3>Um desafio para testa abilidade backend, esse desafio e de uma startup gaúcha que oferece soluções para restaurantes melhorarem o seu desempenho no delivery, que foi comprada pelo gigante iFood!
-explorando vários conceitos do mundo backend como API Rest, design patterns, serviço de mensageria, bucket, banco de dados.</h3>
+Um desafio para testa abilidade backend, esse desafio e de uma startup gaúcha que oferece soluções para restaurantes melhorarem o seu desempenho no delivery, que foi comprada pelo gigante iFood!
+explorando vários conceitos do mundo backend como API Rest, design patterns, serviço de mensageria, bucket, banco de dados.
 
 </div>
 
